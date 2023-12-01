@@ -1,0 +1,421 @@
+﻿Description,Category,Urgency,Resolution,Cost
+Turbine blades are showing signs of erosion.,Mechanical Failure,Medium,Replace Blades,1500
+Unusual vibrations detected in the generator bearings.,Mechanical Failure,High,Inspect and Repair,5000
+Voltage fluctuations in the main grid connection.,Electrical Failure,High,Stabilize Power Supply,8000
+Cooling system pumps are clogged with debris.,Mechanical Failure,Medium,Clean and Maintain,2000
+Steam pressure exceeding safe levels in the boiler.,Pressure Issue,High,Shutdown and Repair,10000
+Control room software failing to display critical data.,Software Failure,Medium,Update Software,3000
+Generator overheating due to a coolant leak.,Leak,High,Fix Leak and Coolant Replacement,7000
+Transformer malfunction causing power loss.,Electrical Failure,High,Replace Transformer,12000
+Fuel feed system blockage in a gas turbine plant.,Mechanical Failure,Medium,Clear Blockage,2500
+Frequent tripping of circuit breakers in the switchgear.,Electrical Failure,High,Inspect and Reset,4000
+Excessive noise from the steam turbine exhaust.,Mechanical Failure,Low,Add to Watch List,0
+Abnormal temperature rise in the control room.,Thermal Issue,Medium,Inspect and Ventilate,3500
+Corrosion detected in the condenser tubes.,Corrosion Issue,High,Replace Tubes,6000
+Sudden drop in fuel supply pressure for a diesel generator.,Mechanical Failure,High,Repair Fuel System,5500
+Loss of communication with the remote monitoring system.,Communication Failure,Medium,Restore Connection,2000
+Generator phase imbalance causing voltage fluctuations.,Electrical Failure,High,Balance Phases,4500
+Cooling tower fan motor failure in a nuclear power plant.,Mechanical Failure,High,Replace Motor,8500
+Inaccurate data readings from radiation sensors.,Sensor Failure,Medium,Calibrate Sensors,3000
+Turbine governor system malfunction.,Mechanical Failure,High,Repair Governor,7000
+Frequent grid synchronization issues.,Electrical Failure,High,Upgrade Synchronization System,9000
+Abnormal vibration in the coal conveyor system.,Mechanical Failure,Medium,Inspect and Repair,4000
+Smoke emission from the stack exceeding emission limits.,Environmental Issue,High,Reduce Emissions,11000
+Steam turbine rotor imbalance.,Mechanical Failure,High,Balance Rotor,8500
+Faulty gas compressor in a natural gas power plant.,Mechanical Failure,High,Repair Compressor,7500
+Generator excitation system failure.,Electrical Failure,High,Restore Excitation System,5500
+Fuel quality degradation in a biofuel power plant.,Fuel Issue,High,Improve Fuel Quality,6000
+Boiler feedwater pump malfunction.,Mechanical Failure,High,Repair Pump,4800
+Unresponsive HMI (Human-Machine Interface) in the control room.,Software Failure,Medium,Update HMI Software,3200
+Unplanned shutdown due to a turbine blade fracture.,Mechanical Failure,High,Replace Turbine Blades,9000
+Insufficient cooling water flow in a hydroelectric plant.,Water Flow Issue,High,Restore Water Flow,6000
+Electrical panel short circuit causing power fluctuations.,Electrical Failure,High,Replace Panel,5500
+High levels of sediment in the cooling water intake.,Water Quality Issue,High,Clean Water Intake,3500
+Steam leakage from turbine seals.,Mechanical Failure,Medium,Seal Inspection and Repair,4500
+Voltage regulator failure in the generator control system.,Electrical Failure,High,Replace Regulator,4800
+Fuel injection system malfunction in a gas-fired power plant.,Mechanical Failure,High,Repair Injection System,7500
+Faulty data acquisition system in the instrumentation room.,Software Failure,Medium,Update Data Acquisition System,3200
+Oil leakage from the transformer bushings.,Leak,High,Repair Bushings and Replace Oil,7000
+Loss of synchronization with the grid frequency.,Electrical Failure,High,Resynchronize,4800
+Coal mill gear damage causing operational issues.,Mechanical Failure,High,Replace Gear,8500
+Excessive dust emissions from the coal handling system.,Environmental Issue,High,Improve Dust Control,11000
+Turbine control valve malfunction.,Mechanical Failure,High,Repair Control Valve,7000
+Faulty data transmission between substations.,Communication Failure,Medium,Restore Data Transmission,3000
+Fuel supply line rupture in a combined-cycle power plant.,Mechanical Failure,High,Repair Fuel Line,9500
+Control system freeze during a system update.,Software Failure,Medium,Restart and Update,3500
+Generator stator winding insulation breakdown.,Electrical Failure,High,Replace Stator Winding,12000
+Excessive vibration in the wind turbine tower.,Mechanical Failure,Medium,Inspect and Reinforce,4500
+Emergency shutdown due to a gas leak in a natural gas plant.,Leak,High,Fix Leak and Ventilate,8200
+Cooling water pH levels out of range.,Water Quality Issue,High,Adjust Water Chemistry,4200
+Steam turbine blade fatigue cracks.,Mechanical Failure,High,Replace Affected Blades,9000
+Loss of communication with the grid operator.,Communication Failure,Medium,Restore Communication,3500
+Hydroelectric turbine runner damage.,Mechanical Failure,High,Repair Turbine Runner,7800
+Unresponsive supervisory control system.,Software Failure,Medium,Restart and Update,3200
+Transformer oil contamination detected.,Oil Contamination,High,Replace Oil and Filter,5800
+Faulty synchronization relay in the switchgear.,Electrical Failure,High,Replace Relay,4500
+Biomass fuel conveyor system jamming.,Mechanical Failure,Medium,Clear Blockage,4200
+Control room temperature exceeding safe limits.,Thermal Issue,Medium,Inspect and Ventilate,3200
+Corroded piping in the cooling water system.,Corrosion Issue,High,Replace Corroded Sections,5200
+Diesel generator malfunction during startup.,Mechanical Failure,High,Repair Generator,6700
+Emergency backup generator not engaging.,Electrical Failure,High,Repair Backup System,5500
+Biofuel quality degradation causing combustion issues.,Fuel Issue,High,Improve Fuel Quality,6300
+High-pressure boiler tube rupture.,Pressure Issue,High,Shutdown and Replace Tubes,11500
+Unstable voltage output from the generator.,Electrical Failure,High,Stabilize Voltage,4800
+Excessive algae growth in the cooling water pond.,Water Quality Issue,High,Treat Algae and Clean Pond,4200
+Steam turbine governor control failure.,Mechanical Failure,High,Repair Governor Control,7800
+Grid synchronization failure during load shedding.,Electrical Failure,High,Re-synchronize and Load Shed,9500
+Accumulated coal dust in the boiler causing ignition risks.,Environmental Issue,High,Improve Dust Control,11000
+Combustion chamber overheating in a gas-fired plant.,Thermal Issue,High,Cool Combustion Chamber,7500
+Boiler feedwater contamination detected.,Water Quality Issue,High,Filter and Treat Feedwater,4200
+Turbine blade resonance vibrations.,Mechanical Failure,High,Inspect and Tune Blades,6800
+Unusual radiation levels near the nuclear reactor.,Radiation Issue,High,Investigate and Contain,15000
+Generator exciter failure during startup.,Electrical Failure,High,Replace Exciter,7800
+Biomass fuel supply conveyor motor failure.,Mechanical Failure,High,Repair Conveyor Motor,6200
+Emergency shutdown due to a gas turbine flameout.,Mechanical Failure,High,Restart and Inspect,9500
+Control room system errors during load dispatching.,Software Failure,Medium,Restart and Reconfigure,3800
+Transformer oil leaks detected.,Leak,High,Repair Leaks and Replace Oil,7500
+Loss of grid connection causing power outage.,Electrical Failure,High,Restore Grid Connection,12000
+Wind turbine blade erosion.,Mechanical Failure,Medium,Replace Eroded Blades,5800
+Excessive noise from the gas turbine exhaust.,Mechanical Failure,Low,Add to Watch List,0
+Inaccurate temperature readings from combustion sensors.,Sensor Failure,Medium,Calibrate Sensors,3200
+Steam turbine valve actuator malfunction.,Mechanical Failure,High,Repair Actuator,7800
+Generator circuit breaker tripping during load peaks.,Electrical Failure,High,Inspect and Reset Breaker,5200
+Coal dust explosion risks in the coal handling system.,Environmental Issue,High,Improve Dust Control,11000
+Boiler tube corrosion detected.,Corrosion Issue,High,Replace Corroded Tubes,5800
+Fuel injector clogging in a diesel generator.,Mechanical Failure,Medium,Clean Injectors,4200
+Wind turbine pitch control system failure.,Mechanical Failure,High,Repair Pitch Control,6700
+Control system software freezing during operation.,Software Failure,Medium,Restart and Update,3500
+Oil leakage from the hydraulic system.,Leak,High,Fix Leak and Replace Oil,7500
+Generator voltage regulator instability.,Electrical Failure,High,Replace Regulator,4500
+Biomass fuel moisture content exceeding limits.,Fuel Issue,High,Optimize Fuel Drying,5800
+Steam turbine blade cracking.,Mechanical Failure,High,Replace Affected Blades,7800
+Emergency generator fuel tank leakage.,Leak,High,Fix Leak and Replace Tank,6700
+Loss of communication with the control center.,Communication Failure,Medium,Restore Communication,3200
+Cooling water flow restriction in the condenser.,Water Flow Issue,High,Restore Water Flow,4500
+Generator stator insulation breakdown.,Electrical Failure,High,Replace Stator Insulation,9000
+Combustion chamber overheating in a gas-fired plant.,Thermal Issue,High,Cool Combustion Chamber,7500
+Boiler feedwater pump motor failure.,Mechanical Failure,High,Repair Pump Motor,6200
+Steam turbine blade erosion.,Mechanical Failure,High,Replace Eroded Blades,5800
+Excessive noise from the gas turbine exhaust.,Mechanical Failure,Low,Add to Watch List,0
+Inaccurate temperature readings from combustion sensors.,Sensor Failure,Medium,Calibrate Sensors,3200
+Steam turbine valve actuator malfunction.,Mechanical Failure,High,Repair Actuator,7800
+Generator circuit breaker tripping during load peaks.,Electrical Failure,High,Inspect and Reset Breaker,5200
+Coal dust explosion risks in the coal handling system.,Environmental Issue,High,Improve Dust Control,11000
+Boiler tube corrosion detected.,Corrosion Issue,High,Replace Corroded Tubes,5800
+Fuel injector clogging in a diesel generator.,Mechanical Failure,Medium,Clean Injectors,4200
+Wind turbine pitch control system failure.,Mechanical Failure,High,Repair Pitch Control,6700
+Control system software freezing during operation.,Software Failure,Medium,Restart and Update,3500
+Oil leakage from the hydraulic system.,Leak,High,Fix Leak and Replace Oil,7500
+Generator voltage regulator instability.,Electrical Failure,High,Replace Regulator,4500
+Biomass fuel moisture content exceeding limits.,Fuel Issue,High,Optimize Fuel Drying,5800
+Steam turbine blade cracking.,Mechanical Failure,High,Replace Affected Blades,7800
+Emergency generator fuel tank leakage.,Leak,High,Fix Leak and Replace Tank,6700
+Loss of communication with the control center.,Communication Failure,Medium,Restore Communication,3200
+Cooling water flow restriction in the condenser.,Water Flow Issue,High,Restore Water Flow,4500
+Generator stator insulation breakdown.,Electrical Failure,High,Replace Stator Insulation,9000
+Steam turbine blade erosion.,Mechanical Failure,High,Replace Eroded Blades,5800
+Excessive noise from the gas turbine exhaust.,Mechanical Failure,Low,Add to Watch List,0
+Inaccurate temperature readings from combustion sensors.,Sensor Failure,Medium,Calibrate Sensors,3200
+Steam turbine valve actuator malfunction.,Mechanical Failure,High,Repair Actuator,7800
+Generator circuit breaker tripping during load peaks.,Electrical Failure,High,Inspect and Reset Breaker,5200
+Coal dust explosion risks in the coal handling system.,Environmental Issue,High,Improve Dust Control,11000
+Boiler tube corrosion detected.,Corrosion Issue,High,Replace Corroded Tubes,5800
+Fuel injector clogging in a diesel generator.,Mechanical Failure,Medium,Clean Injectors,4200
+Wind turbine pitch control system failure.,Mechanical Failure,High,Repair Pitch Control,6700
+Control system software freezing during operation.,Software Failure,Medium,Restart and Update,3500
+Oil leakage from the hydraulic system.,Leak,High,Fix Leak and Replace Oil,7500
+Generator voltage regulator instability.,Electrical Failure,High,Replace Regulator,4500
+Biomass fuel moisture content exceeding limits.,Fuel Issue,High,Optimize Fuel Drying,5800
+Steam turbine blade cracking.,Mechanical Failure,High,Replace Affected Blades,7800
+Emergency generator fuel tank leakage.,Leak,High,Fix Leak and Replace Tank,6700
+Loss of communication with the control center.,Communication Failure,Medium,Restore Communication,3200
+Cooling water flow restriction in the condenser.,Water Flow Issue,High,Restore Water Flow,4500
+Generator stator insulation breakdown.,Electrical Failure,High,Replace Stator Insulation,9000
+Combustion chamber overheating in a gas-fired plant.,Thermal Issue,High,Cool Combustion Chamber,7500
+Boiler feedwater pump motor failure.,Mechanical Failure,High,Repair Pump Motor,6200
+Steam turbine blade erosion.,Mechanical Failure,High,Replace Eroded Blades,5800
+Excessive noise from the gas turbine exhaust.,Mechanical Failure,Low,Add to Watch List,0
+Inaccurate temperature readings from combustion sensors.,Sensor Failure,Medium,Calibrate Sensors,3200
+Steam turbine valve actuator malfunction.,Mechanical Failure,High,Repair Actuator,7800
+Generator circuit breaker tripping during load peaks.,Electrical Failure,High,Inspect and Reset Breaker,5200
+Coal dust explosion risks in the coal handling system.,Environmental Issue,High,Improve Dust Control,11000
+Boiler tube corrosion detected.,Corrosion Issue,High,Replace Corroded Tubes,5800
+Fuel injector clogging in a diesel generator.,Mechanical Failure,Medium,Clean Injectors,4200
+Wind turbine pitch control system failure.,Mechanical Failure,High,Repair Pitch Control,6700
+Control system software freezing during operation.,Software Failure,Medium,Restart and Update,3500
+Oil leakage from the hydraulic system.,Leak,High,Fix Leak and Replace Oil,7500
+Generator voltage regulator instability.,Electrical Failure,High,Replace Regulator,4500
+Biomass fuel moisture content exceeding limits.,Fuel Issue,High,Optimize Fuel Drying,5800
+Steam turbine blade cracking.,Mechanical Failure,High,Replace Affected Blades,7800
+Emergency generator fuel tank leakage.,Leak,High,Fix Leak and Replace Tank,6700
+Loss of communication with the control center.,Communication Failure,Medium,Restore Communication,3200
+Cooling water flow restriction in the condenser.,Water Flow Issue,High,Restore Water Flow,4500
+Generator stator insulation breakdown.,Electrical Failure,High,Replace Stator Insulation,9000
+Steam turbine blade erosion.,Mechanical Failure,High,Replace Eroded Blades,5800
+Excessive noise from the gas turbine exhaust.,Mechanical Failure,Low,Add to Watch List,0
+Inaccurate temperature readings from combustion sensors.,Sensor Failure,Medium,Calibrate Sensors,3200
+Steam turbine valve actuator malfunction.,Mechanical Failure,High,Repair Actuator,7800
+Generator circuit breaker tripping during load peaks.,Electrical Failure,High,Inspect and Reset Breaker,5200
+Coal dust explosion risks in the coal handling system.,Environmental Issue,High,Improve Dust Control,11000
+Boiler tube corrosion detected.,Corrosion Issue,High,Replace Corroded Tubes,5800
+Fuel injector clogging in a diesel generator.,Mechanical Failure,Medium,Clean Injectors,4200
+Wind turbine pitch control system failure.,Mechanical Failure,High,Repair Pitch Control,6700
+Control system software freezing during operation.,Software Failure,Medium,Restart and Update,3500
+Oil leakage from the hydraulic system.,Leak,High,Fix Leak and Replace Oil,7500
+Generator voltage regulator instability.,Electrical Failure,High,Replace Regulator,4500
+Biomass fuel moisture content exceeding limits.,Fuel Issue,High,Optimize Fuel Drying,5800
+Steam turbine blade cracking.,Mechanical Failure,High,Replace Affected Blades,7800
+Emergency generator fuel tank leakage.,Leak,High,Fix Leak and Replace Tank,6700
+Loss of communication with the control center.,Communication Failure,Medium,Restore Communication,3200
+Cooling water flow restriction in the condenser.,Water Flow Issue,High,Restore Water Flow,4500
+Generator stator insulation breakdown.,Electrical Failure,High,Replace Stator Insulation,9000
+Combustion chamber overheating in a gas-fired plant.,Thermal Issue,High,Cool Combustion Chamber,7500
+Boiler feedwater pump motor failure.,Mechanical Failure,High,Repair Pump Motor,6200
+Steam turbine blade erosion.,Mechanical Failure,High,Replace Eroded Blades,5800
+Excessive noise from the gas turbine exhaust.,Mechanical Failure,Low,Add to Watch List,0
+Inaccurate temperature readings from combustion sensors.,Sensor Failure,Medium,Calibrate Sensors,3200
+Steam turbine valve actuator malfunction.,Mechanical Failure,High,Repair Actuator,7800
+Generator circuit breaker tripping during load peaks.,Electrical Failure,High,Inspect and Reset Breaker,5200
+Coal dust explosion risks in the coal handling system.,Environmental Issue,High,Improve Dust Control,11000
+Boiler tube corrosion detected.,Corrosion Issue,High,Replace Corroded Tubes,5800
+Fuel injector clogging in a diesel generator.,Mechanical Failure,Medium,Clean Injectors,4200
+Wind turbine pitch control system failure.,Mechanical Failure,High,Repair Pitch Control,6700
+Control system software freezing during operation.,Software Failure,Medium,Restart and Update,3500
+Oil leakage from the hydraulic system.,Leak,High,Fix Leak and Replace Oil,7500
+Generator voltage regulator instability.,Electrical Failure,High,Replace Regulator,4500
+Biomass fuel moisture content exceeding limits.,Fuel Issue,High,Optimize Fuel Drying,5800
+Steam turbine blade cracking.,Mechanical Failure,High,Replace Affected Blades,7800
+Emergency generator fuel tank leakage.,Leak,High,Fix Leak and Replace Tank,6700
+Loss of communication with the control center.,Communication Failure,Medium,Restore Communication,3200
+Cooling water flow restriction in the condenser.,Water Flow Issue,High,Restore Water Flow,4500
+Generator stator insulation breakdown.,Electrical Failure,High,Replace Stator Insulation,9000
+Steam turbine blade erosion.,Mechanical Failure,High,Replace Eroded Blades,5800
+Excessive noise from the gas turbine exhaust.,Mechanical Failure,Low,Add to Watch List,0
+Inaccurate temperature readings from combustion sensors.,Sensor Failure,Medium,Calibrate Sensors,3200
+Steam turbine valve actuator malfunction.,Mechanical Failure,High,Repair Actuator,7800
+Generator circuit breaker tripping during load peaks.,Electrical Failure,High,Inspect and Reset Breaker,5200
+Coal dust explosion risks in the coal handling system.,Environmental Issue,High,Improve Dust Control,11000
+Boiler tube corrosion detected.,Corrosion Issue,High,Replace Corroded Tubes,5800
+Fuel injector clogging in a diesel generator.,Mechanical Failure,Medium,Clean Injectors,4200
+Wind turbine pitch control system failure.,Mechanical Failure,High,Repair Pitch Control,6700
+Control system software freezing during operation.,Software Failure,Medium,Restart and Update,3500
+Oil leakage from the hydraulic system.,Leak,High,Fix Leak and Replace Oil,7500
+Generator voltage regulator instability.,Electrical Failure,High,Replace Regulator,4500
+Biomass fuel moisture content exceeding limits.,Fuel Issue,High,Optimize Fuel Drying,5800
+Steam turbine blade cracking.,Mechanical Failure,High,Replace Affected Blades,7800
+Emergency generator fuel tank leakage.,Leak,High,Fix Leak and Replace Tank,6700
+Loss of communication with the control center.,Communication Failure,Medium,Restore Communication,3200
+Cooling water flow restriction in the condenser.,Water Flow Issue,High,Restore Water Flow,4500
+Generator stator insulation breakdown.,Electrical Failure,High,Replace Stator Insulation,9000
+Combustion chamber overheating in a gas-fired plant.,Thermal Issue,High,Cool Combustion Chamber,7500
+Boiler feedwater pump motor failure.,Mechanical Failure,High,Repair Pump Motor,6200
+Steam turbine blade erosion.,Mechanical Failure,High,Replace Eroded Blades,5800
+Excessive noise from the gas turbine exhaust.,Mechanical Failure,Low,Add to Watch List,0
+Inaccurate temperature readings from combustion sensors.,Sensor Failure,Medium,Calibrate Sensors,3200
+Steam turbine valve actuator malfunction.,Mechanical Failure,High,Repair Actuator,7800
+Generator circuit breaker tripping during load peaks.,Electrical Failure,High,Inspect and Reset Breaker,5200
+Coal dust explosion risks in the coal handling system.,Environmental Issue,High,Improve Dust Control,11000
+Boiler tube corrosion detected.,Corrosion Issue,High,Replace Corroded Tubes,5800
+Fuel injector clogging in a diesel generator.,Mechanical Failure,Medium,Clean Injectors,4200
+Wind turbine pitch control system failure.,Mechanical Failure,High,Repair Pitch Control,6700
+Control system software freezing during operation.,Software Failure,Medium,Restart and Update,3500
+Oil leakage from the hydraulic system.,Leak,High,Fix Leak and Replace Oil,7500
+Generator voltage regulator instability.,Electrical Failure,High,Replace Regulator,4500
+Biomass fuel moisture content exceeding limits.,Fuel Issue,High,Optimize Fuel Drying,5800
+Steam turbine blade cracking.,Mechanical Failure,High,Replace Affected Blades,7800
+Emergency generator fuel tank leakage.,Leak,High,Fix Leak and Replace Tank,6700
+Loss of communication with the control center.,Communication Failure,Medium,Restore Communication,3200
+Cooling water flow restriction in the condenser.,Water Flow Issue,High,Restore Water Flow,4500
+Generator stator insulation breakdown.,Electrical Failure,High,Replace Stator Insulation,9000
+Combustion chamber overheating in a gas-fired plant.,Thermal Issue,High,Cool Combustion Chamber,7500
+Boiler feedwater pump motor failure.,Mechanical Failure,High,Repair Pump Motor,6200
+Steam turbine blade erosion.,Mechanical Failure,High,Replace Eroded Blades,5800
+Excessive noise from the gas turbine exhaust.,Mechanical Failure,Low,Add to Watch List,0
+Inaccurate temperature readings from combustion sensors.,Sensor Failure,Medium,Calibrate Sensors,3200
+Steam turbine valve actuator malfunction.,Mechanical Failure,High,Repair Actuator,7800
+Generator circuit breaker tripping during load peaks.,Electrical Failure,High,Inspect and Reset Breaker,5200
+Coal dust explosion risks in the coal handling system.,Environmental Issue,High,Improve Dust Control,11000
+Boiler tube corrosion detected.,Corrosion Issue,High,Replace Corroded Tubes,5800
+Fuel injector clogging in a diesel generator.,Mechanical Failure,Medium,Clean Injectors,4200
+Wind turbine pitch control system failure.,Mechanical Failure,High,Repair Pitch Control,6700
+Control system software freezing during operation.,Software Failure,Medium,Restart and Update,3500
+Oil leakage from the hydraulic system.,Leak,High,Fix Leak and Replace Oil,7500
+Generator voltage regulator instability.,Electrical Failure,High,Replace Regulator,4500
+Biomass fuel moisture content exceeding limits.,Fuel Issue,High,Optimize Fuel Drying,5800
+Steam turbine blade cracking.,Mechanical Failure,High,Replace Affected Blades,7800
+Emergency generator fuel tank leakage.,Leak,High,Fix Leak and Replace Tank,6700
+Loss of communication with the control center.,Communication Failure,Medium,Restore Communication,3200
+Cooling water flow restriction in the condenser.,Water Flow Issue,High,Restore Water Flow,4500
+Generator stator insulation breakdown.,Electrical Failure,High,Replace Stator Insulation,9000
+Combustion chamber overheating in a gas-fired plant.,Thermal Issue,High,Cool Combustion Chamber,7500
+Boiler feedwater pump motor failure.,Mechanical Failure,High,Repair Pump Motor,6200
+Steam turbine blade erosion.,Mechanical Failure,High,Replace Eroded Blades,5800
+Excessive noise from the gas turbine exhaust.,Mechanical Failure,Low,Add to Watch List,0
+Inaccurate temperature readings from combustion sensors.,Sensor Failure,Medium,Calibrate Sensors,3200
+Steam turbine valve actuator malfunction.,Mechanical Failure,High,Repair Actuator,7800
+Generator circuit breaker tripping during load peaks.,Electrical Failure,High,Inspect and Reset Breaker,5200
+Coal dust explosion risks in the coal handling system.,Environmental Issue,High,Improve Dust Control,11000
+Boiler tube corrosion detected.,Corrosion Issue,High,Replace Corroded Tubes,5800
+Fuel injector clogging in a diesel generator.,Mechanical Failure,Medium,Clean Injectors,4200
+Wind turbine pitch control system failure.,Mechanical Failure,High,Repair Pitch Control,6700
+Control system software freezing during operation.,Software Failure,Medium,Restart and Update,3500
+Oil leakage from the hydraulic system.,Leak,High,Fix Leak and Replace Oil,7500
+Generator voltage regulator instability.,Electrical Failure,High,Replace Regulator,4500
+Biomass fuel moisture content exceeding limits.,Fuel Issue,High,Optimize Fuel Drying,5800
+Steam turbine blade cracking.,Mechanical Failure,High,Replace Affected Blades,7800
+Emergency generator fuel tank leakage.,Leak,High,Fix Leak and Replace Tank,6700
+Loss of communication with the control center.,Communication Failure,Medium,Restore Communication,3200
+Cooling water flow restriction in the condenser.,Water Flow Issue,High,Restore Water Flow,4500
+Generator stator insulation breakdown.,Electrical Failure,High,Replace Stator Insulation,9000
+Combustion chamber overheating in a gas-fired plant.,Thermal Issue,High,Cool Combustion Chamber,7500
+Boiler feedwater pump motor failure.,Mechanical Failure,High,Repair Pump Motor,6200
+Steam turbine blade erosion.,Mechanical Failure,High,Replace Eroded Blades,5800
+Excessive noise from the gas turbine exhaust.,Mechanical Failure,Low,Add to Watch List,0
+Inaccurate temperature readings from combustion sensors.,Sensor Failure,Medium,Calibrate Sensors,3200
+Steam turbine valve actuator malfunction.,Mechanical Failure,High,Repair Actuator,7800
+Generator circuit breaker tripping during load peaks.,Electrical Failure,High,Inspect and Reset Breaker,5200
+Coal dust explosion risks in the coal handling system.,Environmental Issue,High,Improve Dust Control,11000
+Boiler tube corrosion detected.,Corrosion Issue,High,Replace Corroded Tubes,5800
+Fuel injector clogging in a diesel generator.,Mechanical Failure,Medium,Clean Injectors,4200
+Wind turbine pitch control system failure.,Mechanical Failure,High,Repair Pitch Control,6700
+Control system software freezing during operation.,Software Failure,Medium,Restart and Update,3500
+Oil leakage from the hydraulic system.,Leak,High,Fix Leak and Replace Oil,7500
+Generator voltage regulator instability.,Electrical Failure,High,Replace Regulator,4500
+Biomass fuel moisture content exceeding limits.,Fuel Issue,High,Optimize Fuel Drying,5800
+Steam turbine blade cracking.,Mechanical Failure,High,Replace Affected Blades,7800
+Emergency generator fuel tank leakage.,Leak,High,Fix Leak and Replace Tank,6700
+Loss of communication with the control center.,Communication Failure,Medium,Restore Communication,3200
+Cooling water flow restriction in the condenser.,Water Flow Issue,High,Restore Water Flow,4500
+Generator stator insulation breakdown.,Electrical Failure,High,Replace Stator Insulation,9000
+Combustion chamber overheating in a gas-fired plant.,Thermal Issue,High,Cool Combustion Chamber,7500
+Boiler feedwater pump motor failure.,Mechanical Failure,High,Repair Pump Motor,6200
+Steam turbine blade erosion.,Mechanical Failure,High,Replace Eroded Blades,5800
+Excessive noise from the gas turbine exhaust.,Mechanical Failure,Low,Add to Watch List,0
+Inaccurate temperature readings from combustion sensors.,Sensor Failure,Medium,Calibrate Sensors,3200
+Steam turbine valve actuator malfunction.,Mechanical Failure,High,Repair Actuator,7800
+Generator circuit breaker tripping during load peaks.,Electrical Failure,High,Inspect and Reset Breaker,5200
+Coal dust explosion risks in the coal handling system.,Environmental Issue,High,Improve Dust Control,11000
+Boiler tube corrosion detected.,Corrosion Issue,High,Replace Corroded Tubes,5800
+Fuel injector clogging in a diesel generator.,Mechanical Failure,Medium,Clean Injectors,4200
+Wind turbine pitch control system failure.,Mechanical Failure,High,Repair Pitch Control,6700
+Control system software freezing during operation.,Software Failure,Medium,Restart and Update,3500
+Oil leakage from the hydraulic system.,Leak,High,Fix Leak and Replace Oil,7500
+Generator voltage regulator instability.,Electrical Failure,High,Replace Reg,5000
+Catastrophic boiler failure leading to a major explosion.,Mechanical Failure,Critical,Shutdown and Rebuild,150000
+ Complete meltdown of a nuclear reactor.,Radiation Issue,Critical,Evacuate and Contain,300000
+ Massive turbine blade disintegration with shrapnel damage.,Mechanical Failure,Critical,Replace and Inspect,120000
+Severe transformer oil fire  threatening adjacent equipment.,Fire Hazard,Critical,Activate Fire Suppression and Isolate,75000
+Collapse of a cooling tower due to structural failure.,Structural Failure,Critical,Evacuate and Reconstruct,180000
+ Total loss of power grid synchronization with long-term blackout.,Electrical Failure,Critical,Grid Restoration and Repair,250000
+Rupture in a high-pressure steam pipe causing a steam explosion.,Mechanical Failure,Critical,Isolate and Repair Pipe,90000
+Complete failure of a hydroelectric dam  causing massive flooding.,Structural Failure,Critical,Evacuate and Rebuild Dam,350000
+Uncontrolled nuclear chain reaction in a reactor core.,Radiation Issue,Critical,Evacuate and Contain,280000
+Catastrophic gas turbine explosion resulting in multiple fatalities.,Mechanical Failure,Critical,Investigate and Overhaul,200000
+Severe corrosion leading to a boiler tube breach and explosion.,Corrosion Issue,Critical,Replace and Inspect Tubes,110000
+Loss of all emergency backup power systems.,Electrical Failure,Critical,Restore Emergency Power,80000
+Collapse of a wind turbine tower during a storm.,Structural Failure,Critical,Evacuate and Rebuild Tower,140000
+Massive fuel spill from a storage tank with environmental impact.,Environmental Issue,Critical,Contain and Remediate,120000
+Complete failure of a geothermal well  releasing toxic gases.,Environmental Issue,Critical,Evacuate and Cap Well,160000
+Failure in a high-voltage transmission line  causing wildfires.,Electrical Failure,Critical,Isolate and Repair Line,95000
+Out-of-control biomass combustion leading to a forest fire.,Environmental Issue,Critical,Contain and Extinguish Fire,175000
+Multiple simultaneous gas leaks in a natural gas power plant.,Environmental Issue,Critical,Evacuate and Isolate,105000
+Collapse of a coal silo  burying equipment and personnel.,Structural Failure,Critical,Rescue and Rebuild,210000
+Nuclear reactor coolant contamination with hazardous materials.,Radiation Issue,Critical,Contain and Decontaminate,195000
+Complete loss of control in a hydroelectric power station.,Mechanical Failure,Critical,Shutdown and Reevaluate,135000
+Catastrophic failure of a hydroelectric dam during a flood.,Structural Failure,Critical,Evacuate and Rebuild Dam,280000
+Major explosion in a natural gas storage facility.,Environmental Issue,Critical,Contain and Vent Gas Safely,115000
+Complete blackout with a prolonged outage in extreme weather.,Electrical Failure,Critical,Restore Grid and Stabilize,165000
+Massive cooling system failure in a nuclear reactor.,Thermal Issue,Critical,Emergency Cooling and Repair,240000
+Rupture of a high-pressure gas pipeline  causing a fireball.,Environmental Issue,Critical,Evacuate and Isolate,125000
+Complete failure of a solar power plant's energy storage system.,Electrical Failure,Critical,Replace and Upgrade Storage,145000
+Sudden turbine overspeed causing catastrophic equipment damage.,Mechanical Failure,Critical,Inspect and Replace Components,185000
+Major cyberattack leading to a shutdown of all control systems.,Cybersecurity Issue,Critical,Isolate and Recover,155000
+Collapse of a transmission tower  disrupting power distribution.,Structural Failure,Critical,Repair and Reinforce Tower,135000
+Nuclear reactor core breach  leading to a radioactive release.,Radiation Issue,Critical,Evacuate and Contain,310000
+Catastrophic boiler explosion with extensive property damage.,Mechanical Failure,Critical,Assess Damage and Rebuild,220000
+Severe corrosion in a gas pipeline causing a rupture.,Corrosion Issue,Critical,Shut Down and Replace Section,95000
+Massive wildfire threatening a remote gas power plant.,Environmental Issue,Critical,Evacuate and Firefight,175000
+Complete failure of a tidal power generation system.,Mechanical Failure,Critical,Recover and Redesign System,185000
+Loss of control in a nuclear fuel reprocessing facility.,Radiation Issue,Critical,Evacuate and Contain,280000
+Catastrophic failure of a high-voltage substation  causing a fire.,Electrical Failure,Critical,Contain Fire and Rebuild,195000
+Complete meltdown of a geothermal power plant's wellhead.,Environmental Issue,Critical,Contain and Cap Well,125000
+Collapse of a wind turbine blade onto a public roadway.,Structural Failure,Critical,Secure Area and Replace Blade,140000
+Sudden rupture of a steam boiler  releasing scalding steam.,Mechanical Failure,Critical,Provide Medical Aid and Replace Boiler,210000
+Severe flooding of a hydroelectric power station's turbines.,Environmental Issue,Critical,Evacuate and Drain Station,165000
+Uncontrolled release of hazardous chemicals in a chemical power plant.,Environmental Issue,Critical,Evacuate and Contain,155000
+Complete loss of emergency backup systems in a data center.,Electrical Failure,Critical,Restore Emergency Power,135000
+Major gas leak in a natural gas power plant's control room.,Environmental Issue,Critical,Evacuate and Isolate,175000
+Catastrophic failure of a transmission line tower  disrupting power supply.,Structural Failure,Critical,Repair and Reinforce Tower,185000
+Collapse of a coal storage silo onto critical equipment.,Structural Failure,Critical,Assess Damage and Rebuild,280000
+Nuclear reactor coolant contamination with radioactive substances.,Radiation Issue,Critical,Contain and Decontaminate,240000
+Loss of control in a hydroelectric power station with flooding risk.,Mechanical Failure,Critical,Shutdown and Evacuate,310000
+Complete failure of a natural gas storage cavern  causing explosions.,Environmental Issue,Critical,Evacuate and Contain,260000
+Massive transformer oil spill with extensive environmental impact.,Environmental Issue,Critical,Contain and Remediate,195000
+Catastrophic failure of a geothermal well  releasing toxic gases.,Environmental Issue,Critical,Evacuate and Cap Well,215000
+Total collapse of a nuclear reactor building.,Structural Failure,Critical,Evacuate and Contain,330000
+Catastrophic explosion of a gas compressor station.,Mechanical Failure,Critical,Investigate and Rebuild,210000
+Complete failure of a tidal power generation system's control system.,Electrical Failure,Critical,Recover and Redesign System,225000
+Sudden turbine overspeed causing multiple fatalities.,Mechanical Failure,Critical,Inspect and Replace Components,260000
+Major cyberattack leading to critical infrastructure disruption.,Cybersecurity Issue,Critical,Isolate and Recover,245000
+Collapse of a high-voltage transmission tower  disrupting power distribution.,Structural Failure,Critical,Repair and Reinforce Tower,235000
+Nuclear reactor core breach  leading to a radioactive release.,Radiation Issue,Critical,Evacuate and Contain,350000
+Catastrophic boiler explosion with widespread property damage.,Mechanical Failure,Critical,Assess Damage and Rebuild,245000
+Severe corrosion in a gas pipeline causing a rupture.,Corrosion Issue,Critical,Shut Down and Replace Section,210000
+Massive wildfire threatening a remote gas power plant.,Environmental Issue,Critical,Evacuate and Firefight,325000
+Complete failure of a tidal power generation system.,Mechanical Failure,Critical,Recover and Redesign System,335000
+Loss of control in a nuclear fuel reprocessing facility.,Radiation Issue,Critical,Evacuate and Contain,360000
+Catastrophic failure of a high-voltage substation  causing a fire.,Electrical Failure,Critical,Contain Fire and Rebuild,265000
+Complete meltdown of a geothermal power plant's wellhead.,Environmental Issue,Critical,Contain and Cap Well,215000
+Collapse of a wind turbine blade onto a public roadway.,Structural Failure,Critical,Secure Area and Replace Blade,230000
+Sudden rupture of a steam boiler  releasing scalding steam.,Mechanical Failure,Critical,Provide Medical Aid and Replace Boiler,280000
+Severe flooding of a hydroelectric power station's turbines.,Environmental Issue,Critical,Evacuate and Drain Station,265000
+Uncontrolled release of hazardous chemicals in a chemical power plant.,Environmental Issue,Critical,Evacuate and Contain,255000
+Complete loss of emergency backup systems in a data center.,Electrical Failure,Critical,Restore Emergency Power,235000
+Major gas leak in a natural gas power plant's control room.,Environmental Issue,Critical,Evacuate and Isolate,325000
+Catastrophic failure of a transmission line tower  disrupting power supply.,Structural Failure,Critical,Repair and Reinforce Tower,335000
+Collapse of a coal storage silo onto critical equipment.,Structural Failure,Critical,Assess Damage and Rebuild,360000
+Nuclear reactor coolant contamination with radioactive substances.,Radiation Issue,Critical,Contain and Decontaminate,330000
+Loss of control in a hydroelectric power station with flooding risk.,Mechanical Failure,Critical,Shutdown and Evacuate,350000
+Complete failure of a natural gas storage cavern  causing explosions.,Environmental Issue,Critical,Evacuate and Contain,310000
+Massive transformer oil spill with extensive environmental impact.,Environmental Issue,Critical,Contain and Remediate,265000
+Catastrophic failure of a geothermal well  releasing toxic gases.,Environmental Issue,Critical,Evacuate and Cap Well,295000
+Total collapse of a nuclear reactor building.,Structural Failure,Critical,Evacuate and Contain,380000
+Catastrophic explosion of a gas compressor station.,Mechanical Failure,Critical,Investigate and Rebuild,275000
+Complete failure of a tidal power generation system's control system.,Electrical Failure,Critical,Recover and Redesign System,290000
+Sudden turbine overspeed causing multiple fatalities.,Mechanical Failure,Critical,Inspect and Replace Components,325000
+Major cyberattack leading to critical infrastructure disruption.,Cybersecurity Issue,Critical,Isolate and Recover,310000
+Collapse of a high-voltage transmission tower  disrupting power distribution.,Structural Failure,Critical,Repair and Reinforce Tower,300000
+Nuclear reactor core breach  leading to a radioactive release.,Radiation Issue,Critical,Evacuate and Contain,420000
+Catastrophic boiler explosion with widespread property damage.,Mechanical Failure,Critical,Assess Damage and Rebuild,335000
+Severe corrosion in a gas pipeline causing a rupture.,Corrosion Issue,Critical,Shut Down and Replace Section,290000
+Massive wildfire threatening a remote gas power plant.,Environmental Issue,Critical,Evacuate and Firefight,365000
+Complete failure of a tidal power generation system.,Mechanical Failure,Critical,Recover and Redesign System,375000
+Loss of control in a nuclear fuel reprocessing facility.,Radiation Issue,Critical,Evacuate and Contain,400000
+Catastrophic failure of a high-voltage substation  causing a fire.,Electrical Failure,Critical,Contain Fire and Rebuild,305000
+Complete meltdown of a geothermal power plant's wellhead.,Environmental Issue,Critical,Contain and Cap Well,295000
+Collapse of a wind turbine blade onto a public roadway.,Structural Failure,Critical,Secure Area and Replace Blade,310000
+Sudden rupture of a steam boiler  releasing scalding steam.,Mechanical Failure,Critical,Provide Medical Aid and Replace Boiler,360000
+Severe flooding of a hydroelectric power station's turbines.,Environmental Issue,Critical,Evacuate and Drain Station,345000
+Uncontrolled release of hazardous chemicals in a chemical power plant.,Environmental Issue,Critical,Evacuate and Contain,335000
+Complete loss of emergency backup systems in a data center.,Electrical Failure,Critical,Restore Emergency Power,315000
+Major gas leak in a natural gas power plant's control room.,Environmental Issue,Critical,Evacuate and Isolate,405000
+Catastrophic failure of a transmission line tower  disrupting power supply.,Structural Failure,Critical,Repair and Reinforce Tower,415000
+Collapse of a coal storage silo onto critical equipment.,Structural Failure,Critical,Assess Damage and Rebuild,440000
+Nuclear reactor coolant contamination with radioactive substances.,Radiation Issue,Critical,Contain and Decontaminate,420000
+Loss of control in a hydroelectric power station with flooding risk.,Mechanical Failure,Critical,Shutdown and Evacuate,440000
+Complete failure of a natural gas storage cavern  causing explosions.,Environmental Issue,Critical,Evacuate and Contain,390000
+Massive transformer oil spill with extensive environmental impact.,Environmental Issue,Critical,Contain and Remediate,355000
+Catastrophic failure of a geothermal well  releasing toxic gases.,Environmental Issue,Critical,Evacuate and Cap Well,375000
+Total collapse of a nuclear reactor building.,Structural Failure,Critical,Evacuate and Contain,480000
+Catastrophic explosion of a gas compressor station.,Mechanical Failure,Critical,Investigate and Rebuild,365000
+Complete failure of a tidal power generation system's control system.,Electrical Failure,Critical,Recover and Redesign System,380000
+Sudden turbine overspeed causing multiple fatalities.,Mechanical Failure,Critical,Inspect and Replace Components,415000
+Major cyberattack leading to critical infrastructure disruption.,Cybersecurity Issue,Critical,Isolate and Recover,390000
+Collapse of a high-voltage transmission tower  disrupting power distribution.,Structural Failure,Critical,Repair and Reinforce Tower,400000
+Nuclear reactor core breach  leading to a radioactive release.,Radiation Issue,Critical,Evacuate and Contain,550000
+Catastrophic boiler explosion with widespread property damage.,Mechanical Failure,Critical,Assess Damage and Rebuild,445000
+Severe corrosion in a gas pipeline causing a rupture.,Corrosion Issue,Critical,Shut Down and Replace Section,400000
+Massive wildfire threatening a remote gas power plant.,Environmental Issue,Critical,Evacuate and Firefight,435000
+Complete failure of a tidal power generation system.,Mechanical Failure,Critical,Recover and Redesign System,445000
+Loss of control in a nuclear fuel reprocessing facility.,Radiation Issue,Critical,Evacuate and Contain,480000
+Catastrophic failure of a high-voltage substation  causing a fire.,Electrical Failure,Critical,Contain Fire and Rebuild,415000
